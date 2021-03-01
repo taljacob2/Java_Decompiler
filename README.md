@@ -10,6 +10,7 @@ Run this script to decompile all .class / .jar files back to .java files! The hi
 Place ALL your desired ".class / .jar" files to de-compress inside the "classesFolder".
 
 Run the "decompile.bat" file - FOR WINDOWS.
+
 Run the "decompile.sh" file - FOR UNIX.
 
 ALL your desired de-compiled files are place in the "decompileFolder".

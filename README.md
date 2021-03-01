@@ -13,7 +13,7 @@ Run the "decompile.bat" file - FOR WINDOWS.
 
 Run the "decompile.sh" file - FOR UNIX.
 
-ALL your desired de-compiled files are place in the "decompileFolder".
+ALL your desired de-compiled files are placed in the "decompileFolder".
 
 ENJOY!
 >Note:
